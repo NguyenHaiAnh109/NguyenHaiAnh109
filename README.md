@@ -1,3 +1,1 @@
-### 🧠 My 3D Neural Network Lab
-
-[Khám phá mạng neural 3D tương tác →](https://NguyenHaiAnh109.github.io/neural-network-3d/)
+![Neural Network 3D](https://raw.githubusercontent.com/NguyenHaiAnh109/neural-network-3d/main/docs/neural-network.gif)
